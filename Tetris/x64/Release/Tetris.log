@@ -1,0 +1,36 @@
+﻿  ENGINE.cpp
+C:\Users\david\source\Tetris\Tetris\ENGINE.cpp(12,76): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\david\source\Tetris\Tetris\ENGINE.cpp(12,76): warning C4244:         with
+C:\Users\david\source\Tetris\Tetris\ENGINE.cpp(12,76): warning C4244:         [
+C:\Users\david\source\Tetris\Tetris\ENGINE.cpp(12,76): warning C4244:             T=float
+C:\Users\david\source\Tetris\Tetris\ENGINE.cpp(12,76): warning C4244:         ]
+C:\Users\david\source\Tetris\Tetris\ENGINE.cpp(21,115): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\david\source\Tetris\Tetris\ENGINE.cpp(21,115): warning C4244:         with
+C:\Users\david\source\Tetris\Tetris\ENGINE.cpp(21,115): warning C4244:         [
+C:\Users\david\source\Tetris\Tetris\ENGINE.cpp(21,115): warning C4244:             T=float
+C:\Users\david\source\Tetris\Tetris\ENGINE.cpp(21,115): warning C4244:         ]
+C:\Users\david\source\Tetris\Tetris\ENGINE.cpp(21,70): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\david\source\Tetris\Tetris\ENGINE.cpp(21,70): warning C4244:         with
+C:\Users\david\source\Tetris\Tetris\ENGINE.cpp(21,70): warning C4244:         [
+C:\Users\david\source\Tetris\Tetris\ENGINE.cpp(21,70): warning C4244:             T=float
+C:\Users\david\source\Tetris\Tetris\ENGINE.cpp(21,70): warning C4244:         ]
+C:\Users\david\source\Tetris\Tetris\ENGINE.cpp(25,142): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\david\source\Tetris\Tetris\ENGINE.cpp(25,142): warning C4244:         with
+C:\Users\david\source\Tetris\Tetris\ENGINE.cpp(25,142): warning C4244:         [
+C:\Users\david\source\Tetris\Tetris\ENGINE.cpp(25,142): warning C4244:             T=float
+C:\Users\david\source\Tetris\Tetris\ENGINE.cpp(25,142): warning C4244:         ]
+C:\Users\david\source\Tetris\Tetris\ENGINE.cpp(25,83): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\david\source\Tetris\Tetris\ENGINE.cpp(25,83): warning C4244:         with
+C:\Users\david\source\Tetris\Tetris\ENGINE.cpp(25,83): warning C4244:         [
+C:\Users\david\source\Tetris\Tetris\ENGINE.cpp(25,83): warning C4244:             T=float
+C:\Users\david\source\Tetris\Tetris\ENGINE.cpp(25,83): warning C4244:         ]
+  FIGURE.cpp
+  SETTINGS.cpp
+  Source.cpp
+  MESSAGE.cpp
+  WINDOW.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 308 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Tetris.vcxproj -> C:\Users\david\source\Tetris\x64\Release\Tetris.exe
